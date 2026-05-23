@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/job",
+      "destination": "https://k.kidno.online/job.html?utm_source=APPLE&utm_medium=ORANGE&utm_campaign=ORANGE",
+      "permanent": false
+    }
+  ]
+}
